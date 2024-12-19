@@ -1,0 +1,31 @@
+.skills{
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    color: #FFF;
+    font-size: 16px;
+}
+.progress-bar{
+    background: #959595;
+    width: 600px;
+    height: 10px;
+    border-radius: 5px;
+}
+.progress-bar div{
+    height: 15px;
+    border-radius: 5px;
+    width: 50%;
+    background:rgb(113, 216, 113);
+
+}
+.progress-bar div span{
+    height: 30px;
+    width: 40px;
+    border-radius: 50%;
+    background: #FFF;
+    float: right;
+    margin-top: -10px; 
+    margin-right: -20px;
+    color:#333
+}
